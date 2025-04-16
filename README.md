@@ -1,7 +1,7 @@
 # Single-Backend-route
 This is a simple Node.js Express backend with one route:
 GET /users – Fetches all users from JSONPlaceholder.
-GET /users/:id – Fetches a specific user by ID.
+GET /users/:username – Fetches a specific user by username.
 We use axios to make HTTP requests to the JSONPlaceholder API.
 
 setup instruction:-
